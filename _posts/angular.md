@@ -1,5 +1,5 @@
 ---
-title: angular
+title: AngularJS 
 date: 2018-04-23 23:11:51
 tags: [新技术]
 ---
