@@ -1,0 +1,15 @@
+---
+title: angular
+date: 2018-04-23 23:11:51
+tags: [新技术]
+---
+
+AngularJS  诞生于2009年，由Misko Hevery 等人创建，后为Google所收购。是一款优秀的前端JS框架，已经被用于Google的多款产品当中。AngularJS有着诸多特性，最为核心的是：
+
+MVW（Model-View-*Whatever*）、模块化、自动化双向数据绑定、语义化标签、依赖注入等等。
+
+AngularJS 是一个 [**JavaScript**](https://baike.baidu.com/item/JavaScript)**框架**。它是一个以 JavaScript 编写的库。它可通过 <script> 标签添加到[HTML](https://baike.baidu.com/item/HTML) 页面。
+
+AngularJS 通过 **指令** 扩展了 HTML，且通过 **表达式** 绑定数据到 HTML。
+
+AngularJS 是以一个 JavaScript 文件形式发布的，可通过 script 标签添加到网页中。
