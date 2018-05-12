@@ -1,7 +1,7 @@
 ---
 title: Angular 
 date: 2018-04-23 23:11:51
-tags: [新技术]
+tags: [前端技术]
 ---
 
 Angular是一款来自谷歌的开源的web前端框架，诞生于2009年，由Misko Hevery 等人创建，后为Google所收购。是一款优秀的前端JS框架，已经被用于Google的多款产品当中。
